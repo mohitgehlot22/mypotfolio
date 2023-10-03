@@ -1,0 +1,16 @@
+@media only screen  and (min-width:256px) and (max-width:575px) {
+    .btn-close{
+        color: white !important;
+     }
+     .pera{
+        font-size: 16px !important;
+     }
+     .imgporofile{
+        width: 250px !important;
+        height: 250px !important;
+     }
+     .imgsikills{
+        width: 40px !important;
+        height: 40px !important;
+     }
+}
